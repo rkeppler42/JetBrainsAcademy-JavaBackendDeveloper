@@ -12,4 +12,4 @@
 
 ## Projects:
 ### ⏳Easy
-- [My First Project with Java)](Easy/): **completed**;
+- [My First Project with Java](Easy/MyFirstProjectWithJava): **completed**;
