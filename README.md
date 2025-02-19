@@ -1,4 +1,4 @@
-# JetBrainsAcademy-JavaBackendDeveloper 💻
+# JetBrains Academy - Java Backend Developer 💻
 
  All the projects I did for the [Java Backend Developer](https://hyperskill.org/courses/12-java-backend-developer-spring-boot) track of JetBrains Academy!
 
