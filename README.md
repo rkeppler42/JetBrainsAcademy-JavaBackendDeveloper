@@ -6,15 +6,15 @@
  The graduate projects will be marked as so.
 
 ## Status
-⏳32/395 completed topics (8.1%)\
-⏳29/134 applied core topics (21.64%)\
+⏳38/395 completed topics (9.62%)\
+⏳35/134 applied core topics (26.12%)\
 ⏳0 completed graduate projects
 
 ## Projects:
 ### ⏳Easy
 - [My First Project with Java](Easy/MyFirstProjectWithJava): **completed**;
 - [Simple Chat Bot with Java](Easy/SimpleChatBot): **completed**;
-- Zookeeper with Java: _not started_;
+- [Zookeeper with Java](Easy/Zookeeper): **completed**;
 - Simple Tic-Tac-Toe (Java): _not started_;
 - Last Pencil (Java): _not started_;
 - Cinema Room Manager: _not started_;
